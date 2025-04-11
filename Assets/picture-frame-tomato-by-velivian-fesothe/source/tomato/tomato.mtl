@@ -1,0 +1,48 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.59755898)
+
+newmtl picture
+kd 0.501961 1 0.964706
+ka 1 1 1
+ks 1 1 1
+ke 0 0 0
+d 1
+Ns 400
+illum 2
+
+newmtl back
+kd 0.87451 0.780392 0.713726
+ka 0 0 0
+ks 1 1 1
+ke 0 0 0
+d 1
+Ns 400
+illum 2
+
+newmtl inner_rim
+kd 0.592157 0.929412 0.647059
+ka 0 0 0
+ks 1 1 1
+ke 0 0 0
+d 1
+Ns 400
+illum 2
+
+newmtl frame
+kd 0.933333 0.388235 0.686275
+ka 0 0 0
+ks 1 1 1
+ke 0 0 0
+d 1
+Ns 400
+illum 2
+
+newmtl outer_bevel
+kd 0.792157 0.541176 0.980392
+ka 1 1 1
+ks 1 1 1
+ke 0 0 0
+d 1
+Ns 400
+illum 2
+
